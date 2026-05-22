@@ -1,0 +1,8 @@
+{
+  "name": "Dity Store Android Architecture",
+  "description": "Android Native architecture guide and Kotlin implementation for Dity Store Admin using Google Workspace APIs and FCM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
